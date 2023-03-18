@@ -7,6 +7,8 @@
   <h1>Programmer boi</h1>
 </div>
 
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
